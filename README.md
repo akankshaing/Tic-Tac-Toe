@@ -35,6 +35,4 @@ Open an issue <br>
 Create a pull request <br>
 Suggest new features <br>
 
-✨ If you like, I can also **add shields.io badges** (like "Made with JavaScript", "MIT License", "Open for Contributions") to make it more GitHub-professional.  
-
-Would you like me to add those fancy **badges + live demo link section** too?
+Check it out - https://akankshaing.github.io/Tic-Tac-Toe/
