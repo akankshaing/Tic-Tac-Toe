@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
- 
+  
 A simple and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  <br>
 This project is a fun way to practice DOM manipulation, event handling, and game logic implementation.  <br>
 
